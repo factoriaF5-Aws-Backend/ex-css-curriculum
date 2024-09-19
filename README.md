@@ -1,10 +1,10 @@
-# **Ejercicio: Introducción a CSS - Estilizando un Currículum**
+# ✨ **Ejercicio: Introducción a CSS - Estilizando un Currículum**
 
-## **Descripción del ejercicio**
+## 📋 **Descripción del ejercicio**
 
 Este ejercicio consiste en agregar estilos CSS a un currículum en HTML que ya tiene las clases CSS nombradas siguiendo la metodología **BEM (Block Element Modifier)**. Tu tarea será aplicar los estilos utilizando las clases ya definidas y respetando la estructura del HTML proporcionado en la **plantilla** de GitHub.
 
-### **Objetivos:**
+### 🎯 **Objetivos:**
 
 1. Aplicar estilos CSS utilizando las clases ya presentes en el HTML.
 2. Comprender y explicar brevemente qué es **BEM** en el README.
@@ -12,7 +12,7 @@ Este ejercicio consiste en agregar estilos CSS a un currículum en HTML que ya t
 4. Realizar commits siguiendo el estilo **conventional commits**.
 5. Utilizar la plantilla de GitHub y compartir el enlace a tu repositorio cuando termines.
 
-## **¿Qué es BEM?**
+## 📘 **¿Qué es BEM?**
 
 **BEM** (Block Element Modifier) es una metodología que organiza y nombra las clases en CSS de forma clara y estructurada, dividiendo los componentes de la interfaz en:
 
@@ -20,9 +20,9 @@ Este ejercicio consiste en agregar estilos CSS a un currículum en HTML que ya t
 - **Element**: Un componente dentro de un bloque que cumple una función específica (ejemplo: `skills__list` es un elemento dentro del bloque `skills`).
 - **Modifier**: Una variación que cambia la apariencia o comportamiento del bloque o elemento (ejemplo: `skills__item--highlighted` es un modificador que resalta un elemento).
 
-## **Instrucciones para comenzar:**
+## 🛠️ **Instrucciones para comenzar:**
 
-### Imagen de referencia:
+### 🖼️ **Imagen de referencia**:
 
 ![Curriculum](./cv-referencia.png)
 
@@ -51,7 +51,7 @@ Este ejercicio consiste en agregar estilos CSS a un currículum en HTML que ya t
 
 ---
 
-### **Recursos adicionales**:
+### 📚 **Recursos adicionales**:
 
 - [Documentación oficial de BEM](https://getbem.com/introduction/)
 - [Guía sobre conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)
